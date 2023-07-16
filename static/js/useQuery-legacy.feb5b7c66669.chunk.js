@@ -1,0 +1,1 @@
+System.register(["./vendor-legacy.fc156c611c90.chunk.js"],(function(e,r){"use strict";var t;return{setters:[e=>{t=e.p}],execute:function(){e("u",(()=>{const{search:e}=t();return new URLSearchParams(e)}))}}}));

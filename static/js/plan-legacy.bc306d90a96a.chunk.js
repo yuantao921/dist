@@ -1,0 +1,1 @@
+System.register([],(function(e,r){"use strict";return{execute:function(){var r=e("P",(e=>(e.PERIOD="period",e.TRAFFIC="traffic",e))(r||{})),i=e("a",(e=>(e.ONETIME="onetime_price",e.MONTHLY="month_price",e.QUARTERLY="quarter_price",e.HALF_YEARLY="half_year_price",e.YEARLY="year_price",e.TWO_YEARLY="two_year_price",e.THREE_YEARLY="three_year_price",e))(i||{}))}}}));
